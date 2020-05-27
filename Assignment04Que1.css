@@ -1,0 +1,35 @@
+
+div.all{
+	font-size:50px;
+	/*text-align:center;*/
+	margin-top:200px;
+	margin-bottom:200px;
+	margin-left:600px;
+	margin-right:200px;
+	display:flex;
+	flex:stretch;
+	flex-item:center;
+}
+span#first{
+	color:red;
+	
+}
+span#s{
+	color:black;
+	
+}
+span#t{
+	color:tomato;
+	
+}span#f{
+	color:yellow;
+	
+}
+span#fi{
+	color: darksalmon;
+	
+}
+span#six{
+	color:blue;
+	
+}
